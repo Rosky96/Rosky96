@@ -1,5 +1,53 @@
-- 👋 Hi, I’m @Rosky96
-
+- 👋 Hi, I’m @Rosky feel free to watch my projects.
+-
+-
+-
+-
+- Construction site 
+-  ##########             #################
+-  #        #        
+-  #        #         
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  ##########
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  ##########
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  ##########
+-  #        # "working on it"
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  ###########        
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  #        #
+-  ##########
+-
+-
+-
+-
+-
+-
+-
+- "The right Mindset can take you anywhere"
 
 <!---
 Rosky96/Rosky96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
